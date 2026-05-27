@@ -168,7 +168,7 @@ Built during a personal comeback grind from **1200 → 1800 on Codeforces** — 
 
 ## License
 
-MIT
+Gunottam Maini
 
 ---
 
